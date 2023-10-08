@@ -1,0 +1,4 @@
+server:
+  port: 9000
+eth:
+  apiKey: ${ETH_API_KEY}
